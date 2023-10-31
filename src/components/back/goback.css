@@ -1,0 +1,23 @@
+.back{
+    position: fixed;
+    float: left;
+    top:150px;
+    color:aliceblue;
+    display: flex;
+    width: 90%;
+    height: 30px;
+}
+.back img{
+    margin-left: 20px;
+}
+.back p{
+    font-family: Poppins;
+font-size: 24px;
+font-weight: 500;
+line-height: 38px;
+letter-spacing: 0em;
+text-align: left;
+margin-left: 10px;
+margin-top: -5px;
+
+}

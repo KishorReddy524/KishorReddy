@@ -1,0 +1,150 @@
+.issue{
+    position: absolute;
+    float: left;
+    right: 35px;
+    top: 140px;
+    width: 360px;
+    height: 380px;
+    background: #F8F8F8;
+    z-index: 1;
+  
+      border-radius :8px;
+Padding:24px 16px 24px 16px;
+
+}
+.isu-off{
+    display: non;
+}
+.issue-off{
+    display: none;
+}
+ 
+.isu-header{
+    width: 300px;
+      text-align: center;
+    margin:  auto;
+
+}
+.isu-dvd img{
+    width: 330px;
+ }
+ 
+.isu-header p{
+     
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: 0em;
+      
+
+    
+}
+/* .isu-drop{
+    font-family: Poppins;
+font-size: 18px;
+font-weight: 500;
+line-height: 18px;
+letter-spacing: 0em;
+text-align: left;
+
+} */
+.isu-drop select{
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 18px;
+    letter-spacing: 0em;
+    text-align: left;
+    padding-left: 10px;
+      width:330px;
+    height: 40px;
+    border-radius: 8px;
+    background: linear-gradient(0deg, #CCCCCC, #CCCCCC),
+linear-gradient(0deg, #E0E0E0, #E0E0E0);
+
+}
+.isu-text textarea{
+    background: linear-gradient(0deg, #CCCCCC, #CCCCCC),
+linear-gradient(0deg, #E0E0E0, #E0E0E0);
+border: 1px solid #CCCCCC;
+  
+padding: 12px, 16px, 12px, 26px;
+border-radius: 8px;
+border: 1px;
+justify-content: space-between;
+
+
+ }
+ 
+ 
+ .isu-btn button{
+    width: 114px;
+height:  40px;
+padding: 10px 20px 10px 20px;
+border-radius: 4px;
+gap: 8px;
+opacity: 0.2px;
+ color: #F8F8F8;
+ right: 0px;
+ background: #6c6c6c ;
+ font-family: Poppins;
+font-size: 20px;
+font-weight: 600;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: left;
+float: right;
+margin: 20px 0px 10px 10px;
+ 
+ }
+ .isu-attach{
+    margin-top: -40px;
+    margin-left: 5px;
+ }
+ .isu-attach button{
+    background-color:  #C7C7C7;
+    border-radius: 4px;
+Padding :4px 10px 4px 4px;
+ }
+label{
+margin-left: 5px;
+}
+.isu-drop option{
+    background: #E0E0E0;
+
+}
+.original{
+    display: none;
+}
+.isu-msg{
+    position: absolute;
+    float: left;
+    right: 35px;
+    top: 440px;
+    width: 465px;
+     text-align: center;
+    background: #F8F8F8;
+  
+      border-radius :8px;
+Padding:7px 6px 7px 6px;
+font-family: Poppins;
+font-size: 18px;
+font-weight: 600;
+line-height: 27px;
+letter-spacing: 0em;
+text-align: center;
+
+}
+.isu-tgl{
+    position: absolute;
+    float: left;
+    right: 60px;
+    top: 495px;
+    width: 465px;
+    width: 20px;
+    height: 20px;
+    background-color: rgb(251, 251, 251);
+    transform:rotate(45deg);
+}
+ 
